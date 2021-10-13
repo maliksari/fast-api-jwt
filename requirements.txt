@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+asyncpg
+databases[postgresql]==0.4.3
+psycopg2-binary==2.8.6
+SQLAlchemy==1.3.24
+requests
+pytest
+PyJWT
+python-decouple
+pydantic[email]
